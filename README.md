@@ -1,6 +1,6 @@
-# test-project
+# Cipher Encoder/Decoder
 
-> A Vue.js project
+> A cipher encoder/decoder tool. Supports caesar, shift (rotate) and affine ciphers. 
 
 ## Build Setup
 
